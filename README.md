@@ -3,7 +3,7 @@
 ### A passionate Information Science Engineering student from Bangalore, India 🇮🇳
 
 - 🔭 I'm currently working on **CityFix** and **DSA Tracker**
-- 🌱 I'm currently learning **TypeScript, Advanced React, and Database optimization**
+- 🌱 I'm currently learning **System Design, DevOps, TypeScript, and Advanced React concepts**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Revanthgowda45)
 - 🌐 Check out my portfolio: **[revanthcode.netlify.app](https://revanthcode.netlify.app/)**
 - 💬 Ask me about **React, JavaScript, UI/UX Design**
